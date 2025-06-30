@@ -16,8 +16,8 @@ Currently working on and learning:
 
 ### 🧠 Tech Stack
 
-- **Languages**: JavaScript, TypeScript, HTML, CSS  
-- **Frontend**: React.js, Tailwind CSS, Bootstrap  
+- **Languages**: JavaScript ,Python(Basics) , HTML, CSS  
+- **Frontend**: React.js, Tailwind CSS  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB, MYSQL
 - **Tools**: Git, GitHub, VS Code, Figma  
