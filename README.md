@@ -37,7 +37,7 @@ Currently working on and learning:
 | Binkey-it *(Private)* | Real-time chat or social mini-app under development. |
 | Youtube-backend *(Private)* | Backend structure for a YouTube clone using Node.js and MongoDB. |
 
-> ✅ *Pin these public projects on your GitHub profile to make them easily discoverable!*
+
 
 ---
 
