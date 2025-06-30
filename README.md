@@ -52,10 +52,12 @@ Currently working on and learning:
 
 ### 🤝 Looking to Collaborate On
 
-- 💬 Chat Applications  
-- 🎬 Movie Recommendation Sites  
-- 📊 Dashboards with Rating Systems  
-- 🔐 Firebase + Auth Projects  
+- 🚀 Full Stack MERN Applications  
+- 💬 Real-time Chat Platforms  
+- 📊 Faculty & Student Management Systems  
+- 🎨 UI/UX Focused Frontend Projects  
+- 🔐 Firebase Auth + Database Integrated Apps  
+- 🎬 Mini Projects like To-Do, Quotes, and Jokes Web Apps
 
 ---
 
@@ -64,6 +66,7 @@ Currently working on and learning:
 - 📧 Email: [bansivachhani153@gmail.com](mailto:bansivachhani153@gmail.com)  
 - 🧑‍💻 GitHub: [github.com/bansivachhani](https://github.com/bansivachhani)  
 - 💼 LinkedIn: [linkedin.com/in/bansi-vachhani-787a8b282](https://www.linkedin.com/in/bansi-vachhani-787a8b282/)
+-  🌐 Portfolio: **Coming Soon**
 
 ---
 
