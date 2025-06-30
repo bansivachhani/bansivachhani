@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bansi Vachhani 👋</h1>
-<h3 align="center">💻 Full Stack Developer (MERN) in Progress | Passionate UI/UX Enthusiast</h3>
+<h3 align="center">💻 Full Stack Developer (MERN) in Progress </h3>
 
 ---
 
