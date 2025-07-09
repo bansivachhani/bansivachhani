@@ -34,7 +34,7 @@ Currently working on and learning:
 | [Quote Web](https://github.com/bansivachhani/quote_web) | A site that displays random quotes using an API. |
 | [Jokes Web](https://github.com/bansivachhani/jokes-web) | Displays random jokes on button click using a public joke API. |
 | Blink-it *(Private)* | Blinkit-like app interface built with React and Firebase. |
-| Binkey-it *(Private)* | Real-time chat or social mini-app under development. |
+| [Binkey-it](https://github.com/bansivachhani/Binkey-it) | Real-time chat or social mini-app under development. |
 | Youtube-backend *(Private)* | Backend structure for a YouTube clone using Node.js and MongoDB. |
 
 
