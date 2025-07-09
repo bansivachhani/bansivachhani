@@ -33,7 +33,6 @@ Currently working on and learning:
 | [To-Do List App](https://github.com/bansivachhani/todo-list-app) | A minimalist task manager with features like add/delete/complete task. |
 | [Quote Web](https://github.com/bansivachhani/quote_web) | A site that displays random quotes using an API. |
 | [Jokes Web](https://github.com/bansivachhani/jokes-web) | Displays random jokes on button click using a public joke API. |
-| Blink-it *(Private)* | Blinkit-like app interface built with React and Firebase. |
 | [Binkey-it](https://github.com/bansivachhani/Binkey-it) | Real-time chat or social mini-app under development. |
 | Youtube-backend *(Private)* | Backend structure for a YouTube clone using Node.js and MongoDB. |
 
