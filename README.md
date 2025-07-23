@@ -32,9 +32,9 @@ Currently working on and learning:
 | [🌤️ Weather App](https://github.com/bansivachhani/weather-app) [🔗Live](https://weather-app-lime-omega-94.vercel.app/) | Responsive React app fetching real-time data from OpenWeatherMap API. |
 | [❓ Quiz App](https://github.com/bansivachhani/quizapp) [🔗Live](https://quizapp-zeta-sand.vercel.app/) | Interactive quiz game built in vanilla JavaScript with live score tracking. |
 | [✅ To-Do List App](https://github.com/bansivachhani/todo-list-app) [🔗Live](https://todo-list-app-alpha-lyart.vercel.app/) | A minimalist task manager with features like add/delete/complete task. |
-| [Binkey-it](https://github.com/bansivachhani/Binkey-it) | Real-time mini chat/social app under development. |
+| [Binkey-it](https://github.com/bansivachhani/Binkey-it) | Real-time mini grocery app development. |
 | [Quote Web](https://github.com/bansivachhani/quote_web) | Displays random quotes from an API in a clean UI. |
-| [Jokes Web](https://github.com/bansivachhani/jokes-web) | Generates random jokes using a public joke API. |
+| [Jokes Web](https://github.com/bansivachhani/jokes-web) | It Displays random jokes using a public joke API. |
 | [Faculty Rating & Leave System](https://github.com/bansivachhani/faculty-rating-and-leave-system) | A complete system for students to rate faculty and faculty to apply for leave. Built with TypeScript and React. |
 
 
