@@ -10,18 +10,18 @@ I'm Bansi, an enthusiastic developer currently diving deep into the **MERN Stack
 Currently working on and learning:
 - 🚀 Full Stack Projects (MERN)
 - ✨ UI/UX Design using Figma
-- ☁️ Cloud Deployments Google App Engine
+- ☁️ Cloud Deployments via Google App Engine & Vercel
 
 ---
 
 ### 🧠 Tech Stack
 
-- **Languages**: JavaScript ,Python(Basics) , HTML, CSS  
-- **Frontend**: React.js, Tailwind CSS  
+- **Languages**: JavaScript, Python (Basics), HTML, CSS  
+- **Frontend**: React.js, Tailwind CSS, Vite  
 - **Backend**: Node.js, Express.js  
-- **Database**: MongoDB, MYSQL
+- **Database**: MongoDB, MySQL  
 - **Tools**: Git, GitHub, VS Code, Figma  
-- **Deployment**: Google App Engine
+- **Deployment**: Vercel, Google App Engine  
 
 ---
 
@@ -29,13 +29,13 @@ Currently working on and learning:
 
 | Project Name | Description |
 |--------------|-------------|
+| [🌤️ Weather App](https://github.com/bansivachhani/weather-app) [🔗Live](https://weather-app-lime-omega-94.vercel.app/) | Responsive React app fetching real-time data from OpenWeatherMap API. |
+| [❓ Quiz App](https://github.com/bansivachhani/quizapp) [🔗Live](https://quizapp-zeta-sand.vercel.app/) | Interactive quiz game built in vanilla JavaScript with live score tracking. |
+| [✅ To-Do List App](https://github.com/bansivachhani/todo-list-app) [🔗Live](https://todo-list-app-alpha-lyart.vercel.app/) | A minimalist task manager with features like add/delete/complete task. |
+| [Binkey-it](https://github.com/bansivachhani/Binkey-it) | Real-time mini chat/social app under development. |
+| [Quote Web](https://github.com/bansivachhani/quote_web) | Displays random quotes from an API in a clean UI. |
+| [Jokes Web](https://github.com/bansivachhani/jokes-web) | Generates random jokes using a public joke API. |
 | [Faculty Rating & Leave System](https://github.com/bansivachhani/faculty-rating-and-leave-system) | A complete system for students to rate faculty and faculty to apply for leave. Built with TypeScript and React. |
-| [To-Do List App](https://github.com/bansivachhani/todo-list-app) | A minimalist task manager with features like add/delete/complete task. |
-| [Quote Web](https://github.com/bansivachhani/quote_web) | A site that displays random quotes using an API. |
-| [Jokes Web](https://github.com/bansivachhani/jokes-web) | Displays random jokes on button click using a public joke API. |
-| [Binkey-it](https://github.com/bansivachhani/Binkey-it) | Real-time chat or social mini-app under development. |
-| Youtube-backend *(Private)* | Backend structure for a YouTube clone using Node.js and MongoDB. |
-
 
 
 ---
@@ -44,28 +44,28 @@ Currently working on and learning:
 
 - Full MERN Stack Integration  
 - Advanced UI Animations (Framer Motion)  
-- REST APIs & Backend Auth  
-- Cloud Hosting with Firebase & Google App Engine
+- REST APIs & Authentication  
+- Firebase Auth + Firestore  
+- Cloud Hosting with Vercel & Google App Engine  
 
 ---
 
 ### 🤝 Looking to Collaborate On
 
-- 🚀 Full Stack MERN Applications  
-- 💬 Real-time Chat Platforms  
-- 📊 Faculty & Student Management Systems  
-- 🎨 UI/UX Focused Frontend Projects  
-- 🔐 Firebase Auth + Database Integrated Apps  
-- 🎬 Mini Projects like To-Do, Quotes, and Jokes Web Apps
+- 🌍 Full Stack MERN Projects  
+- 💬 Real-time Chat Applications  
+- 📊 Faculty & Student Management Platforms  
+- 🎨 UI/UX Focused Web Interfaces  
+- 🔐 Firebase-Integrated Apps  
 
 ---
 
 ### 📫 Connect With Me
 
 - 📧 Email: [bansivachhani153@gmail.com](mailto:bansivachhani153@gmail.com)  
-- 🧑‍💻 GitHub: [github.com/bansivachhani](https://github.com/bansivachhani)  
-- 💼 LinkedIn: [linkedin.com/in/bansi-vachhani-787a8b282](https://www.linkedin.com/in/bansi-vachhani-787a8b282/)
--  🌐 Portfolio: [https://github.com/bansivachhani/Portfolio]
+- 🧑‍💻 GitHub: [@bansivachhani](https://github.com/bansivachhani)  
+- 💼 LinkedIn: [linkedin.com/in/bansi-vachhani-787a8b282](https://www.linkedin.com/in/bansi-vachhani-787a8b282)  
+- 🌐 Portfolio: [Portfolio Repo](https://github.com/bansivachhani/Portfolio)
 
 ---
 
@@ -78,8 +78,7 @@ Currently working on and learning:
 ### ⚡ Fun Fact
 
 I enjoy solving real-life problems with code and love experimenting with both design and development.  
-Outside of tech, I'm always curious to learn something new — whether it's about space, psychology, or startups! 🚀✨
-
+Outside of tech, I’m always curious to learn something new — whether it’s about space, psychology, or startups! 🚀✨
 
 ---
 
