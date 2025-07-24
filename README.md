@@ -64,7 +64,7 @@ Currently working on and learning:
 - 📧 Email: [bansivachhani153@gmail.com](mailto:bansivachhani153@gmail.com)  
 - 🧑‍💻 GitHub: [@bansivachhani](https://github.com/bansivachhani)  
 - 💼 LinkedIn: [linkedin.com/in/bansi-vachhani-787a8b282](https://www.linkedin.com/in/bansi-vachhani-787a8b282)  
-- 🌐 Portfolio: [Portfolio Repo](https://github.com/bansivachhani/Portfolio)
+- 🌐 Portfolio: [Portfolio Repo](https://my-portfolio-98pg.vercel.app/)
 
 ---
 
