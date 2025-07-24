@@ -33,8 +33,8 @@ Currently working on and learning:
 | [❓ Quiz App](https://github.com/bansivachhani/quizapp) [🔗Live](https://quizapp-zeta-sand.vercel.app/) | Interactive quiz game built in vanilla JavaScript with live score tracking. |
 | [✅ To-Do List App](https://github.com/bansivachhani/todo-list-app) [🔗Live](https://todo-list-app-alpha-lyart.vercel.app/) | A minimalist task manager with features like add/delete/complete task. |4
 | [😂 Joke Generator](https://github.com/bansivachhani/Joke-Generator) [🔗Live](https://joke-generator-lake.vercel.app/) | Displays random jokes using a public joke API in a fun interface. |
-| [🛒 Binkey-it](https://github.com/bansivachhani/Binkey-it) | Real-time mini grocery app development. |
-| [📖 Quote Web](https://github.com/bansivachhani/quote_web) | Displays random quotes from an API in a clean UI. |
+| [🛒 Binkey-it](https://github.com/bansivachhani/Binkey-it)[🔗Live](https://www.youtube.com/watch?v=slN124MPVrc)| Real-time mini grocery app development. |
+| [📖 Quote generator](https://github.com/bansivachhani/quote-generator-)[🔗Live](https://quote-generator-liart-chi.vercel.app/) | Displays random quotes from an API in a clean UI. |
 | [🏫 Faculty Rating & Leave System](https://github.com/bansivachhani/faculty-rating-and-leave-system) | A complete system for students to rate faculty and faculty to apply for leave. Built with TypeScript and React. |
 
 ---
@@ -64,7 +64,7 @@ Currently working on and learning:
 - 📧 Email: [bansivachhani153@gmail.com](mailto:bansivachhani153@gmail.com)  
 - 🧑‍💻 GitHub: [@bansivachhani](https://github.com/bansivachhani)  
 - 💼 LinkedIn: [linkedin.com/in/bansi-vachhani-787a8b282](https://www.linkedin.com/in/bansi-vachhani-787a8b282)  
-- 🌐 Portfolio: [Portfolio Repo](https://my-portfolio-98pg.vercel.app/)
+- 🌐 Portfolio: [Portfolio Repo](https://my-portfolio-rho-beryl-14.vercel.app/)
 
 ---
 
